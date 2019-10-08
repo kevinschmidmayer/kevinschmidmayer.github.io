@@ -1,0 +1,45 @@
+#accueil {
+  
+  display:flex;
+  flex-direction:column; 
+  justify-content: center;
+  align-items: center;
+  background: $footer;
+  background-image: url('#{$baseurl}/assets/images/Background.png');
+  height: 50vh;
+  -moz-box-shadow:none;  
+  -webkit-box-shadow: none;  
+  box-shadow:none;  
+}
+
+#ECOGEN img{
+  width:500px;
+  height: auto;
+}
+
+.button{
+  width:250px;
+  height:auto;
+}
+
+.button a{
+  display:block;
+  background:url('#{$baseurl}/assets/images/BOUTON-bleu-ECOGEN-NEUTRE.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-decoration:none;
+}
+
+.button a:hover {
+  background:url('#{$baseurl}/assets/images/BOUTON-bleu-ECOGEN-SURVOL.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#subtitle{
+  color: $main;
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
