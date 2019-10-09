@@ -1,14 +1,10 @@
 - name: Overview
   link: /overview/
-- name: Gallery
-  link: /gallery/
-- name: Start
-  link: /start/  
 - name: Research
   link: /research/
+- name: Publications
+  link: /publications/
 - name: Partners
   link: /partners/
-- name: Services
-  link: /services/
-- name: Help
-  link: /help/
+- name: Contact me
+  link: /contact/

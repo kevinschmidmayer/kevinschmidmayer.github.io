@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ECOGEN
-email: ecogen@code-mphi.fr
+title: Kevin Schmidmayer's website
+email: kevin.schmidmayer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An open source CFD code dedicated to multiphase compressible flows.
-# baseurl: "/ECOGEN" # the subpath of your site, e.g. /blog
-# url: "https://code-mphi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Kevin Schmidmayer's website containing information about my research.
+# baseurl: "/KS" # the subpath of your site, e.g. /blog
+# url: "https://kevinschmidmayer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: noname
-github_username:  code-mphi
+github_username:  kevinschmidmayer
 
 # Build settings
 markdown: kramdown

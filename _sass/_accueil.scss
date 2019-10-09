@@ -17,21 +17,50 @@
   height: auto;
 }
 
-.button{
-  width:250px;
+.buttonRG{
+  width:90px;
   height:auto;
+  margin:auto;
 }
 
-.button a{
+.buttonRG a{
   display:block;
-  background:url('#{$baseurl}/assets/images/BOUTON-bleu-ECOGEN-NEUTRE.png') no-repeat;
+  background:url('#{$baseurl}/assets/images/researchgate.png') no-repeat;
   background-size: contain;
   background-position: center;
   text-decoration:none;
 }
 
-.button a:hover {
-  background:url('#{$baseurl}/assets/images/BOUTON-bleu-ECOGEN-SURVOL.png') no-repeat;
+.buttonGS{
+  width:200px;
+  height:auto;
+  margin:auto;
+}
+
+.buttonGS a{
+  display:block;
+  background:url('#{$baseurl}/assets/images/googlescholar.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-decoration:none;
+}
+
+.buttonECOGEN{
+  width:250px;
+  height:auto;
+  margin:auto;
+}
+
+.buttonECOGEN a{
+  display:block;
+  background:url('#{$baseurl}/assets/images/ecogen_base.png') no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-decoration:none;
+}
+
+.buttonECOGEN a:hover {
+  background:url('#{$baseurl}/assets/images/ecogen_hover.png') no-repeat;
   background-size: contain;
   background-position: center;
 }

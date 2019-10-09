@@ -2,5 +2,5 @@
 layout: accueil
 ---
 
-<div id="subtitle">The open-source CFD plateform for numerical simulation of compressible multiphase flows </div>
+<div id="subtitle">Researcher and consultant on numerical simulation of compressible multiphase flows </div>
 
