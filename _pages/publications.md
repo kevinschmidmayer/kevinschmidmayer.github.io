@@ -13,8 +13,9 @@ permalink: /publications/
 <article>
 	<h2> Journal Articles </h2>
 	<ol>
+		<li> J.-S. Spratt, M. Rodriguez, <span style="font-weight:bold">K. Schmidmayer</span>, S. H. Bryngelson, J. Yang, C. Franck, T. Colonius. “Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations”. <em>Journal of the Mechanics and Physics of Solids</em> (submitted). </li>
 		<li> B. Dorschner, L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>, H. El-Rabii, T. Colonius. “On the formation and recurrent shedding of ligaments in droplet aerobreakup”. <em>Journal of Fluid Mechanics</em> (submitted). </li>
-		<li> T. Trummler, S. H. Bryngelson, <span style="font-weight:bold">K. Schmidmayer</span>, S. J. Schmidt, T. Colonius, N. A. Adams. “Near-surface dynamics of a gas bubble collapsing above a crevice”. <em>Journal of Fluid Mechanics</em> (accepted). </li>
+		<li> T. Trummler, S. H. Bryngelson, <span style="font-weight:bold">K. Schmidmayer</span>, S. J. Schmidt, T. Colonius, N. A. Adams. “Near-surface dynamics of a gas bubble collapsing above a crevice”. <em>Journal of Fluid Mechanics</em>, Vol. 889, A16, 2020. </li>
 		<li> S. H. Bryngelson, <span style="font-weight:bold">K. Schmidmayer</span>, V. Coralic, J. C. Meng, K. Maeda, T. Colonius. “MFC: An open-source high-order multi-component, multi-phase, and multi-scale compressible flow solver”. <em>Computer Physics Communications</em>, 107396, 2020. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, S. H. Bryngelson, T. Colonius. “An assessment of multicomponent flow models and interface capturing schemes for spherical bubble dynamics”. <em>Journal of Computational Physics</em>, Vol. 402, 109080, 2020. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, S. Le Martelot, É. Daniel. “ECOGEN: An open-source tool for multiphase, compressible, multiphysics flows”. <em>Computer Physics Communications</em>, Vol. 251, 107093, 2020. </li>
