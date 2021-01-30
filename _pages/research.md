@@ -6,7 +6,7 @@ permalink: /research/
 
 <article>
 	<h2> ECOGEN: Open-source tool dedicated to multiphase compressible multiphysics flows </h2>
-	<p> ECOGEN is C++ code under an open-source GNU license that Fabien Petitpas (Associate professor at Aix-Marseille Université, fabien.petitpas@univ-amu.fr), Sébastien Le Martelot (Expert turbopumps enginneer at CNES), Éric Daniel (Professor at Aix-Marseille Université, eric.daniel@univ-amu.fr) and Kevin Schmidmayer are developing and has vocation to treat:
+	<p> ECOGEN is C++ code under an open-source GNU license that Fabien Petitpas (Assis. Prof. at Aix-Marseille Université, fabien.petitpas@univ-amu.fr), Sébastien Le Martelot (Expert turbopumps Enginneer at CNES), Éric Daniel (Prof. at Aix-Marseille Université, eric.daniel@univ-amu.fr) and Kevin Schmidmayer are developing and has vocation to treat:
 		<ol>
 			<li> Cartesian or unstructured meshes with or without AMR, </li>
 			<li> High-order numerical method based on Finite Volume method, </li>
