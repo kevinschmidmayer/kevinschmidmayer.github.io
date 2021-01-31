@@ -23,10 +23,12 @@ permalink: /publications/
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, P. Kumar, P. Lavieille, M. Miscevic, F. Topin. “Heat transfer intensification in an actuated heat exchanger submitted to an imposed pressure drop”. <em>PloS one</em>, Vol. 14 (7), Pages e0219441, 2019. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, E. Daniel. “Adaptive Mesh Refinement algorithm based on dual trees for cells and faces for multiphase compressible flows”. <em>Journal of Computational Physics</em>, Vol. 388, Pages 252-278, 2019. </li>
 		<li> S. H. Bryngelson, <span style="font-weight:bold">K. Schmidmayer</span>, T. Colonius. “A quantitative comparison of phase-averaged models for bubbly, cavitating flows”. <em>International Journal of Multiphase Flow</em>, Vol. 115, Pages 137-143, 2019. </li>
-		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, E. Daniel, N. Favrie, S.L. Gavrilyuk. “A model and numerical method for compressible flows with capillary effects”. <em>Journal of Computational Physics</em>, Vol. 334, Pages 468-496, 2017. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, E. Daniel, N. Favrie, S.L. Gavrilyuk. “A model and numerical method for compressible flows with capillary effects”. <em>Journal of Computational Physics</em>, Vol. 334, Pages 468-496, 2017. TEST DOWNLOAD [here is possible to download the file in PDF][1] </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, P. Kumar, P. Lavieille, M. Miscevic, F. Topin. “Thermo-hydraulic characterization of a self-pumping corrugated wall heat exchanger”. <em>Energy</em>, Vol. 128, Pages 713-728, 2017. </li>
 	</ol>
 </article>
+
+[1]:{{ site.url }}/download/test.pdf
 
 <article>
 	<h2> Conferences </h2>
