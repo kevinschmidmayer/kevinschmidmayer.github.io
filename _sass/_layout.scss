@@ -312,3 +312,19 @@ font-style: italic;
   }
   /*justify-content: space-between;*/
 }
+
+a.badge{
+  margin: auto;
+  text-decoration: none;
+  img{
+  vertical-align: middle;
+  width:auto;
+  height:auto;
+  padding:0;
+  margin:auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  align-items: center;
+  } 
+}
