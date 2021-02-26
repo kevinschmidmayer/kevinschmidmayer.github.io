@@ -27,7 +27,7 @@ permalink: /overview/
 	<div>
 		<article>
 			<h2> Researcher </h2>
-			<p> Kevin is currently a researcher expert on simulations of multiphase compressible flows (bubble dynamics, cavitation, droplet aerobreakup, adaptive mesh refinement method, etc.) for industrial and biomedical applications and he is mainly collaborating with:
+			<p> I am currently a researcher expert on simulations of multiphase compressible flows (bubble dynamics, cavitation, droplet aerobreakup, adaptive mesh refinement method, etc.) for industrial and biomedical applications and I am mainly collaborating with:
 				<ul>		
 					<li> <a href="http://iusti.cnrs.fr/" target="_blank" >Aix-Marseille Université - IUSTI, France</a>, </li>
 					<li> <a href="http://www.mce.caltech.edu/" target="_blank" >California Institute of Technology - MCE, California</a>, </li>
@@ -35,7 +35,7 @@ permalink: /overview/
 					<li> <a href="https://applaudmedical.com/" target="_blank" >Applaud Medical, Inc., California</a>. </li>
 				</ul>
 			</p>
-			<p> He is a Postdoctoral Scholar at Aix-Marseille Université (<a href="https://iusti.cnrs.fr/la-recherche-a-liusti/combustion-risques-et-genie-civil-axe-crgc/" target="_blank" >IUSTI-CRGC</a>) with Assoc. Prof. Nicolas Favrie and Prof. Sergey Gavrilyuk, and has been a Postdoctoral Scholar and Guest researcher at the California Institute of Technology in the <a href="http://colonius.caltech.edu/" target="_blank" >Computational Flow Physics group</a>, directed by Prof. Tim Colonius. Before joining Caltech, he completed his PhD in Mechanics and Physics of Fluids at Aix-Marseille Université (<a href="http://iusti.cnrs.fr/la-recherche-a-liusti/ecoulements-compressibles-ondes-de-choc-et-interfaces-axe-ecoci/" target="_blank" >IUSTI-ECOCI</a>) under the supervision of Prof. Éric Daniel and Assis. Prof. Fabien Petitpas. </p>
+			<p> I am a Postdoctoral Scholar at Aix-Marseille Université (<a href="https://iusti.cnrs.fr/la-recherche-a-liusti/combustion-risques-et-genie-civil-axe-crgc/" target="_blank" >IUSTI-CRGC</a>) with Assoc. Prof. Nicolas Favrie, and have been a Postdoctoral Scholar and Guest researcher at the California Institute of Technology in the <a href="http://colonius.caltech.edu/" target="_blank" >Computational Flow Physics group</a>, directed by Prof. Tim Colonius. Before joining Caltech, I completed my PhD in Mechanics and Physics of Fluids at Aix-Marseille Université (<a href="http://iusti.cnrs.fr/la-recherche-a-liusti/ecoulements-compressibles-ondes-de-choc-et-interfaces-axe-ecoci/" target="_blank" >IUSTI-ECOCI</a>) under the supervision of Prof. Éric Daniel and Assis. Prof. Fabien Petitpas. </p>
       		<div class="buttonRG">
           		<a href="https://www.researchgate.net/profile/Kevin_Schmidmayer" target="_blank"> <img src="{{ "/assets/images/transparent.png" | prepend: site.baseurl }}" alt="get it now!" /> </a>
       		</div>
