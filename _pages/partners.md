@@ -17,6 +17,9 @@ permalink: /partners/
 	<div class="imgLogos" >
 		<a href="https://cnes.fr/" target="_blank" >  <img src="{{ "/assets/images/is_logo_2017_logo_triangulaire_bleu.png" | prepend: site.baseurl }}" alt="CNES" /> </a>
 	</div>
+	<div class="imgLogos" >
+		<a href="https://www.onr.navy.mil/" target="_blank" >  <img src="{{ "/assets/images/ONR.png" | prepend: site.baseurl }}" alt="ONR" /> </a>
+	</div>
 </div>
 
 <div id="logos">
@@ -27,9 +30,12 @@ permalink: /partners/
 		<a href="http://www.cnrs.fr/" target="_blank">  <img src="{{ "/assets/images/CNRS.jpg" | prepend: site.baseurl }}" alt="CNRS" /> </a>
 	</div>
 	<div class="imgLogos" >
-	<a href="https://code-mphi.fr/" target="_blank" >  <img src="{{ "/assets/images/myfrogVert_OR.jpg" | prepend: site.baseurl }}" alt="code-mphi" /> </a>
+		<a href="https://code-mphi.fr/" target="_blank" >  <img src="{{ "/assets/images/myfrogVert_OR.jpg" | prepend: site.baseurl }}" alt="code-mphi" /> </a>
 	</div>
 	<div class="imgLogos" >
-	<a href="https://www.pprime.fr/" target="_blank" >  <img src="{{ "/assets/images/Institut_P'_logo.png" | prepend: site.baseurl }}" alt="PPrime" /> </a>
+		<a href="https://www.pprime.fr/" target="_blank" >  <img src="{{ "/assets/images/Institut_P'_logo.png" | prepend: site.baseurl }}" alt="PPrime" /> </a>
+	</div>
+	<div class="imgLogos" >
+		<a href="https://www.defense.gouv.fr/dga" target="_blank" >  <img src="{{ "/assets/images/DGA.png" | prepend: site.baseurl }}" alt="DGA" /> </a>
 	</div>
 </div>
