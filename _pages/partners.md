@@ -6,7 +6,7 @@ permalink: /partners/
 
 <div id="logos">
 	<div class="imgLogos" >
-		<a href="http://www.mce.caltech.edu/" target="_blank">  <img src="{{ "/assets/images/CaltechMCE.png" | prepend: site.baseurl }}" alt="CaltechMCE" /> </a>
+		<a href="http://www.caltech.edu/" target="_blank">  <img src="{{ "/assets/images/Caltech.png" | prepend: site.baseurl }}" alt="Caltech" /> </a>
 	</div>
 	<div class="imgLogos" >
 		<a href="http://iusti.cnrs.fr/" target="_blank">  <img src="{{ "/assets/images/iusti.png" | prepend: site.baseurl }}" alt="IUSTI" /> </a>
