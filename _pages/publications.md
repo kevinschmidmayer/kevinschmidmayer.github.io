@@ -13,7 +13,8 @@ permalink: /publications/
 <article>
 	<h2> Journal Articles </h2>
 	<ol>
-		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>, J. Massoni. “A multiphase irreversible-compaction model for granular-porous materials”. Under review. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. “Modelling interactions between waves and diffused interfaces”. Under review. </li>
+		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>, J. Massoni. “A multiphase irreversible-compaction model for granular-porous materials”. <em>Continuum Mechanics and Thermodynamics</em>, 2021. <a class="badge" href="{{ site.url }}/assets/pdf/Favrie - 2021 - A multiphase irreversible-compaction model for granular-porous materials.pdf" target="_blank" ><img src="https://img.shields.io/badge/PDF-CMT--2021-blue" alt="pdf"/></a> </li>
 		<li> J.-S. Spratt, M. Rodriguez, <span style="font-weight:bold">K. Schmidmayer</span>, S. H. Bryngelson, J. Yang, C. Franck, T. Colonius. “Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations”. <em>Journal of the Mechanics and Physics of Solids</em>, 104455, 2021. <a class="badge" href="{{ site.url }}/assets/pdf/Spratt - 2021 - Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations.pdf" target="_blank" ><img src="https://img.shields.io/badge/PDF-JMPS--2021--104455-blue" alt="pdf"/></a> </li>
 		<li> B. Dorschner, L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>, H. El-Rabii, T. Colonius. “On the formation and recurrent shedding of ligaments in droplet aerobreakup”. <em>Journal of Fluid Mechanics</em>, Vol. 904, A20, 2020. <a class="badge" href="{{ site.url }}/assets/pdf/Dorschner - 2020 - On the formation and recurrent shedding of ligaments in droplet aerobreakup.pdf" target="_blank" ><img src="https://img.shields.io/badge/PDF-JFM--2020--904-blue" alt="pdf"/></a> </li>
 		<li> T. Trummler, S. H. Bryngelson, <span style="font-weight:bold">K. Schmidmayer</span>, S. J. Schmidt, T. Colonius, N. A. Adams. “Near-surface dynamics of a gas bubble collapsing above a crevice”. <em>Journal of Fluid Mechanics</em>, Vol. 889, A16, 2020. <a class="badge" href="{{ site.url }}/assets/pdf/Trummler - 2020 - Near-surface dynamics of a gas bubble collapsing above a crevice.pdf" target="_blank" ><img src="https://img.shields.io/badge/PDF-JFM--2020--889-blue" alt="pdf"/></a> </li>
@@ -51,6 +52,8 @@ permalink: /publications/
 <article>
 	<h2> Visibilities </h2>
 	<ol>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, N. Favrie. “Bubble dynamics and cavitation in biomedical applications”. <em>Journée du Laboratoire IUSTI, Marseille, France</em>, October 8, 2021. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>LMAP seminar, Pau, France</em>, May 6, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, T. Colonius. “Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface”. <em>SoCal Fluids XIII, UC Santa Barbara</em>, April 20, 2019. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, T. Colonius. “Simulation of the collapse of an ellipsoidal vapor bubble attached to a rigid surface”. <em>Fluid Mechanics Research Conference</em>, January 29 2019, Caltech, Pasadena, California. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. Invited by Prof. H. El-Rabii at Pprime, Université de Poitiers, October 15 - 18 2018, Poitiers, France. </li>
