@@ -52,6 +52,7 @@ permalink: /publications/
 <article>
 	<h2> Visibilities </h2>
 	<ol>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</em>, December 6-7, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, N. Favrie. “Bubble dynamics and cavitation in biomedical applications”. <em>Journée du Laboratoire IUSTI, Marseille, France</em>, October 8, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>LMAP seminar, Pau, France</em>, May 6, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, T. Colonius. “Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface”. <em>SoCal Fluids XIII, UC Santa Barbara</em>, April 20, 2019. </li>
