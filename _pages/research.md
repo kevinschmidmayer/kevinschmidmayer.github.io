@@ -5,18 +5,18 @@ permalink: /research/
 ---
 
 <article>
-	<p> My work is generally devoted to the modelling, the simulation and the analysis of multiphysics, multiphase, compressible flows. In the following is only presented few of my research works.
+	<p> My work is generally devoted to the modelling, the simulation and the analysis of multiphysics, multiphase, compressible flows. In the following are presented only some of my research works.
 	</p>
 </article>
 
 <article>
 	<h2> ECOGEN: open-source tool dedicated to multiphase compressible multiphysics flows </h2>
-	<p> ECOGEN is C++ code under an open-source GNU license that Fabien Petitpas (Assis. Prof. at Aix-Marseille Université, fabien.petitpas@univ-amu.fr), Sébastien Le Martelot (Expert turbopumps Enginneer at CNES), Éric Daniel (Prof. at Aix-Marseille Université, eric.daniel@univ-amu.fr) and Kevin Schmidmayer are developing and has vocation to treat:
+	<p> ECOGEN is C++ code under an open-source GNU license developped by multiphase-compressible-flow researchers and has vocation to treat:
 		<ol>
 			<li> Cartesian or unstructured meshes with or without AMR, </li>
 			<li> High-order numerical method based on Finite Volume method, </li>
 			<li> Single or multiphase compressible flows, </li>
-			<li> Multiphysics such as:
+			<li> Multiphysics such as:
 				<ul>
 					<li> Surface tension, </li>
 					<li> Viscosity, </li>
@@ -48,8 +48,8 @@ permalink: /research/
 
 <article>
 	<h2> Water-droplet and water-column aerobreakup </h2>
-	<p> A new model and numerical method have been proposed to solve multiphase compressible flows with surface tension:
-		This new model is in agreement with physical principles of conservation, respects the second law of thermodynamics and is shown hyperbolic in a 3D framework. A new numerical method is also proposed where the global system of equations is split into several submodels. Each submodel is hyperbolic and can be solved with an adequate numerical method. The surface-tension effects were earlier validated thanks to comparison with analytical solutions (Laplace law) and has been shown to give better results than the traditional source-term-integration method. The simulations are also using a new Adaptive Mesh Refinement method (AMR) method. The water-droplet and water-column breakup is made by a high-speed flow behind a shock wave to therefore proceed to the atomization.
+	<p> A new model and numerical method have been proposed to solve multiphase compressible flows with surface tension:
+		This new model is in agreement with physical principles of conservation, respects the second law of thermodynamics and is shown hyperbolic in a 3D framework. A new numerical method is also proposed where the global system of equations is split into several submodels. Each submodel is hyperbolic and can be solved with an adequate numerical method. The surface-tension effects were earlier validated thanks to comparison with analytical solutions (Laplace law) and has been shown to give better results than the traditional source-term-integration method. The simulations are also using a new Adaptive Mesh Refinement method (AMR) method. The water-droplet and water-column breakup is made by a high-speed flow behind a shock wave to therefore proceed to the atomization.
 	</p>
 	<center><img src="{{ "/assets/images/3Datom_mesh.png" | prepend: site.baseurl }}" alt="3Datom_mesh" style="width: 75%; height: 75%;" /></center>
 	<figcaption>Snapshot of water-droplet atomization. Visualization of vorticity contour on the upper half with velocity-magnitude colors (high velocity in red and low velocity in blue) and visualization of the AMR mesh on the lower half colored by the different cores used (adaptive parallel load balancing is used).</figcaption>
@@ -58,10 +58,10 @@ permalink: /research/
 	<figcaption>Water-droplet atomization. Visualization of volume-fraction contour on the left and vorticity contour on the right with velocity-magnitude colors (high velocity in red and low velocity in blue).</figcaption>
 	<p> </p>
 	<center><iframe src="https://player.vimeo.com/video/169677099" width="512" height="288" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
-	<figcaption>Early stages of a water-column breakup by a shock wave. Wave propagation is shown through a schlieren visualization (function of the mixture-density gradient).</figcaption>
+	<figcaption>Early stages of a water-column breakup by a shock wave. Wave propagation is shown through a schlieren visualization (function of the mixture-density gradient).</figcaption>
 	<p> </p>
 	<center><iframe src="https://player.vimeo.com/video/365306429" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
-	<figcaption>Atomization of a water column by a high-speed flow propagating from the left to the right and induced by a shock wave. On the upper half, the water is shown in red and the mist of micrometer water droplets is shown in blue. On the lower half, vorticity is shown.</figcaption>
+	<figcaption>Atomization of a water column by a high-speed flow propagating from the left to the right and induced by a shock wave. On the upper half, the water is shown in red and the mist of micrometer water droplets is shown in blue. On the lower half, vorticity is shown.</figcaption>
 </article>
 
 <article>

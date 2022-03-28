@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Contact information      
+title: Contact information
 permalink: /contact/
 ---
 
-If you have a physical problem and you think I can help you or your company, please contact me at [kevin.schmidmayer@gmail.com](mailto:kevin.schmidmayer@gmail.com).
+If you have a physical problem and you think I can help you or your company, please contact me at kevin.schmidmayer (at) gmail.com.
