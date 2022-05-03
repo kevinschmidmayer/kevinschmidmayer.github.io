@@ -5,4 +5,4 @@ title: Openings
 permalink: /openings/
 ---
 
-We are currently looking for postdoctoral scholars for a variety of subjects related to multiphase compressible flows. Please contact me for more information.
+We often have openings for PhD students and postdoctoral scholars for a variety of subjects related to multiphase compressible flows. Please contact me if interested.

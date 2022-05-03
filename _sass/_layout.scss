@@ -138,14 +138,34 @@ time {
 /*Footer*/
 /********/
 
-footer {
+footer{
   text-align: center;
   padding: 10px;
   background: $footer;
-  /*display: flex;*/
   justify-content: center;
   align-items: center;
   font-size: 0.8em;
+}
+
+.flexZone{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content :center;
+  align-items: center;
+}
+
+.design{
+  justify-content :center;
+  align-items: center;
+  text-align: justify;
+}
+
+footer img{
+  width: 70px ;
+  margin: 0;
+  padding: 0;
+  margin-left:5px ;
 }
 
 /******************************************/
@@ -218,6 +238,18 @@ aside{
 }
 
 .imgLogos{
+  width:27%;
+  height:27%;
+  /*padding :20px;*/
+}
+
+.imgLogos2{
+  width:23%;
+  height:23%;
+  /*padding :20px;*/
+}
+
+.imgLogos3{
   width:20%;
   height:20%;
   /*padding :20px;*/
