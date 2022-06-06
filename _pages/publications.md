@@ -16,6 +16,7 @@ permalink: /publications/
 <article>
 	<h2> Public participations </h2>
 	<ol>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <em>Workshop on cavitation, bubble dynamics and mass transfer, Strasbourg, France</em>, May 31-June 1, 2022. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</em>, December 6-7, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, N. Favrie. “Bubble dynamics and cavitation in biomedical applications”. <em>Journée du Laboratoire IUSTI, Marseille, France</em>, October 8, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>LMAP seminar, Pau, France</em>, May 6, 2021. </li>
