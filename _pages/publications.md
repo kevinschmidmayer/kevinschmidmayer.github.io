@@ -39,6 +39,10 @@ permalink: /publications/
 <article>
 	<h2> Conferences </h2>
 	<ol>
+		<h3> 2022 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé , F. Petitpas, É. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03752096" target="_blank" >Modelling interactions of waves with diffused interfaces</a>. <em>10th International Conference on Numerical Methods for Multi-Material Fluid Flow, MultiMat 2022</em>, Zürich, Switzerland. </li>
+		<li> V. Perrier, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03752083" target="_blank" >A multiscale numerical scheme for the simulation of dispersed multiphase flows</a>. <em>10th International Conference on Numerical Methods for Multi-Material Fluid Flow, MultiMat 2022</em>, Zürich, Switzerland. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03752075v1" target="_blank" >Modeling and simulation of bubble dynamics in the diffuse-interface framework</a>. <em>Workshop on cavitation, bubble dynamics and mass transfer, Strasbourg, France</em>, May 31-June 1, 2022. </li>
 		<h3> 2019 </h3>
 		<li> B. Dorschner, <span style="font-weight:bold">K. Schmidmayer</span>, L. Biasiori-Poulanges, H. El-Rabii, T. Colonius. <a href="https://hal.archives-ouvertes.fr/hal-03649110v1" target="_blank" >Shock-induced atomization of water droplets</a>. <em>72nd Annual Meeting of the APS Division of Fluid Dynamics</em>, 2019, Seattle, Washington. </li>
 		<li> J.S. Spratt, M. Rodriguez, <span style="font-weight:bold">K. Schmidmayer</span>, T. Colonius. <a href="https://hal.archives-ouvertes.fr/hal-03649099v1" target="_blank" >Ensemble-based Data Assimilation Methods for Viscoelastic Material Rheometry during Bubble Collapse</a>. <em>72nd Annual Meeting of the APS Division of Fluid Dynamics</em>, 2019, Seattle, Washington. </li>
@@ -69,7 +73,7 @@ permalink: /publications/
 	<h2> Public participations </h2>
 	<ol>
 		<h3> 2022 </h3>
-		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <em>Workshop on cavitation, bubble dynamics and mass transfer, Strasbourg, France</em>, May 31-June 1, 2022. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <em>ETH Zürich seminar, Zürich, Switzerland</em>, August 22, 2022. </li>
 		<h3> 2021 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</em>, December 6-7, 2021. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, N. Favrie. “Bubble dynamics and cavitation in biomedical applications”. <em>Journée du Laboratoire IUSTI, Marseille, France</em>, October 8, 2021. </li>
