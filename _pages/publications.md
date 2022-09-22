@@ -15,7 +15,7 @@ permalink: /publications/
 	<h2> Journal articles </h2>
 	<ol>
 		<h3> 2022 </h3>
-		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. International Journal for Numerical Methods in Fluids, 2022. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. <em>International Journal for Numerical Methods in Fluids</em>, 2022. </li>
 		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>, J. Massoni. <a href="https://hal.archives-ouvertes.fr/hal-03257608v2" target="_blank" >A multiphase irreversible-compaction model for granular-porous materials</a>. <em>Continuum Mechanics and Thermodynamics</em>, Vol. 34.1, Pages 217-241, 2022. </li>
 		<h3> 2021 </h3>
 		<li> J.-S. Spratt, M. Rodriguez, <span style="font-weight:bold">K. Schmidmayer</span>, S. H. Bryngelson, J. Yang, C. Franck, T. Colonius. <a href="https://hal.archives-ouvertes.fr/hal-03649480v1" target="_blank" >Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations</a>. <em>Journal of the Mechanics and Physics of Solids</em>, Vol. 152, 104455, 2021. </li>

@@ -21,6 +21,21 @@ permalink: /partners/
 
 <div id="logos">
 	<div class="imgLogos" >
+		<a href="https://ethz.ch/en.html" target="_blank" >  <img src="{{ "/assets/images/ETH_Zurich.png" | prepend: site.baseurl }}" alt="ETH Zurich" /> </a>
+	</div>
+	<div class="imgLogos3" >
+		<a href="https://www.pprime.fr/" target="_blank" >  <img src="{{ "/assets/images/Institut_P'_logo.png" | prepend: site.baseurl }}" alt="PPrime" /> </a>
+	</div>
+	<div class="imgLogos3" >
+		<a href="http://www.cnrs.fr/" target="_blank">  <img src="{{ "/assets/images/CNRS.jpg" | prepend: site.baseurl }}" alt="CNRS" /> </a>
+	</div>
+	<div class="imgLogos3" >
+		<a href="https://code-mphi.fr/" target="_blank" >  <img src="{{ "/assets/images/myfrogVert_OR.jpg" | prepend: site.baseurl }}" alt="code-mphi" /> </a>
+	</div>
+</div>
+
+<div id="logos">
+	<div class="imgLogos" >
 		<a href="https://www.onr.navy.mil/" target="_blank" >  <img src="{{ "/assets/images/ONR.png" | prepend: site.baseurl }}" alt="ONR" /> </a>
 	</div>
 	<div class="imgLogos2" >
@@ -31,17 +46,5 @@ permalink: /partners/
 	</div>
 	<div class="imgLogos3" >
 		<a href="https://www.defense.gouv.fr/dga" target="_blank" >  <img src="{{ "/assets/images/DGA.png" | prepend: site.baseurl }}" alt="DGA" /> </a>
-	</div>
-</div>
-
-<div id="logos">
-	<div class="imgLogos3" >
-		<a href="https://www.pprime.fr/" target="_blank" >  <img src="{{ "/assets/images/Institut_P'_logo.png" | prepend: site.baseurl }}" alt="PPrime" /> </a>
-	</div>
-	<div class="imgLogos3" >
-		<a href="http://www.cnrs.fr/" target="_blank">  <img src="{{ "/assets/images/CNRS.jpg" | prepend: site.baseurl }}" alt="CNRS" /> </a>
-	</div>
-	<div class="imgLogos3" >
-		<a href="https://code-mphi.fr/" target="_blank" >  <img src="{{ "/assets/images/myfrogVert_OR.jpg" | prepend: site.baseurl }}" alt="code-mphi" /> </a>
 	</div>
 </div>
