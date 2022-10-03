@@ -73,6 +73,7 @@ permalink: /publications/
 	<h2> Public participations </h2>
 	<ol>
 		<h3> 2022 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Les bulles de cavitation et leurs interventions inattendues en médecine”. <em>Nuit européenne des chercheur.e.s, Château de Pau, France</em>, September 30, 2022. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <em>ETH Zürich seminar, Zürich, Switzerland</em>, August 22, 2022. </li>
 		<h3> 2021 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</em>, December 6-7, 2021. </li>
