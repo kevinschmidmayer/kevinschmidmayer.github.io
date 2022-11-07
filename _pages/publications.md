@@ -12,7 +12,7 @@ permalink: /publications/
 </article>
 
 <article>
-	<h2> Journal articles </h2>
+	<h1> Journal articles </h1>
 	<ol>
 		<h3> 2022 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. <em>International Journal for Numerical Methods in Fluids</em>, 2022. </li>
@@ -37,7 +37,7 @@ permalink: /publications/
 </article>
 
 <article>
-	<h2> Conferences </h2>
+	<h1> Conferences </h1>
 	<ol>
 		<h3> 2022 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé , F. Petitpas, É. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03752096" target="_blank" >Modelling interactions of waves with diffused interfaces</a>. <em>10th International Conference on Numerical Methods for Multi-Material Fluid Flow, MultiMat 2022</em>, Zürich, Switzerland. </li>
@@ -65,15 +65,15 @@ permalink: /publications/
 </article>
 
 <article>
-	<h2> Thesis </h2>
+	<h1> Thesis </h1>
 	<span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/tel-03675245v1" target="_blank" >Simulation de l'atomisation d'une goutte par un écoulement à grande vitesse</a>. <em>PhD thesis, Aix-Marseille Université</em>, 2017.
 </article>
 
 <article>
-	<h2> Public participations </h2>
+	<h1> Public participations </h1>
 	<ol>
 		<h3> 2022 </h3>
-		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Les bulles de cavitation et leurs interventions inattendues en médecine”. <em>Nuit européenne des chercheur.e.s, Château de Pau, France</em>, September 30, 2022. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Les bulles de cavitation et leurs interventions inattendues en médecine”. <em>Nuit Européenne des chercheur.e.s, Château de Pau, France</em>, September 30, 2022. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <em>ETH Zürich seminar, Zürich, Switzerland</em>, August 22, 2022. </li>
 		<h3> 2021 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <em>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</em>, December 6-7, 2021. </li>
