@@ -16,7 +16,7 @@ permalink: /publications/
 	<ol>
 		<h3> 2023 </h3>
 		<li> L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03894523v1" target="_blank" >A phenomenological analysis of droplet shock-induced cavitation using a multiphase modelling approach</a>. <em>Physics of Fluids</em>, (accepted), 2023. </li>
-		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. <em>International Journal for Numerical Methods in Fluids</em>, Vol. 95(2), Pages 215-241, 2023. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. <em>International Journal for Numerical Methods in Fluids</em>, Vol. 95 (2), Pages 215-241, 2023. </li>
 		<h3> 2022 </h3>
 		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>, J. Massoni. <a href="https://hal.archives-ouvertes.fr/hal-03257608v2" target="_blank" >A multiphase irreversible-compaction model for granular-porous materials</a>. <em>Continuum Mechanics and Thermodynamics</em>, Vol. 34.1, Pages 217-241, 2022. </li>
 		<h3> 2021 </h3>
@@ -74,6 +74,8 @@ permalink: /publications/
 <article>
 	<h1> Public participations </h1>
 	<ol>
+		<h3> 2023 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Droplet shock-induced cavitation using a multiphase modelling approach”. <em>LMAP Seminar, Pau, France</em>, January 5, 2023. </li>
 		<h3> 2022 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Droplet shock-induced cavitation using a multiphase modelling approach”. <em>Sorbonne University Seminar, Pierre and Marie Curie Campus, Institut Jean le Rond ∂’Alembert, Paris, France</em>, December 8, 2022. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Les bulles de cavitation et leurs interventions inattendues en médecine”. <em>Nuit Européenne des chercheur.e.s, Château de Pau, France</em>, September 30, 2022. </li>
