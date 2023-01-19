@@ -4,6 +4,10 @@ title: Partners
 permalink: /partners/
 ---
 
+<article>
+	<p> Present and past partners: </p>
+</article>
+
 <div id="logos">
 	<div class="imgLogos" >
 		<a href="https://www.inria.fr/en/" target="_blank">  <img src="{{ "/assets/images/Inria.png" | prepend: site.baseurl }}" alt="Inria" /> </a>
