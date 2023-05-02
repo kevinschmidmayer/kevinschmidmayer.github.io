@@ -41,6 +41,8 @@ permalink: /publications/
 <article>
 	<h1> Conferences </h1>
 	<ol>
+		<h3> 2023 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, L. Biasiori-Poulanges. <a href="https://hal.science/hal-04086409" target="_blank" >On bubble cloud growth in shock-droplet interaction</a>. <em>11th International Conference on Multiphase Flow, ICMF 2023</em>, Kobe, Japan. </li>
 		<h3> 2022 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé , F. Petitpas, É. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03752096" target="_blank" >Modelling interactions of waves with diffused interfaces</a>. <em>10th International Conference on Numerical Methods for Multi-Material Fluid Flow, MultiMat 2022</em>, Zürich, Switzerland. </li>
 		<li> V. Perrier, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03752083" target="_blank" >A multiscale numerical scheme for the simulation of dispersed multiphase flows</a>. <em>10th International Conference on Numerical Methods for Multi-Material Fluid Flow, MultiMat 2022</em>, Zürich, Switzerland. </li>
