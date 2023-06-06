@@ -15,7 +15,8 @@ permalink: /publications/
 	<h1> Journal articles </h1>
 	<ol>
 		<h3> 2023 </h3>
-		<li> L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03894523v1" target="_blank" >A phenomenological analysis of droplet shock-induced cavitation using a multiphase modelling approach</a>. <em>Physics of Fluids</em>, Vol. 35, 013312, 2023. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, L. Biasiori-Poulanges. <a href="https://hal.science/hal-04100852" target="_blank" >Geometry effects on the droplet shock-induced cavitation</a>. <em>Physics of Fluids</em>, Vol. 35 (6), 063315, 2023. </li>
+		<li> L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03894523v1" target="_blank" >A phenomenological analysis of droplet shock-induced cavitation using a multiphase modelling approach</a>. <em>Physics of Fluids</em>, Vol. 35 (1), 013312, 2023. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cazé, F. Petitpas, E. Daniel, N. Favrie. <a href="https://hal.archives-ouvertes.fr/hal-03387818v2" target="_blank" >Modelling interactions between waves and diffused interfaces</a>. <em>International Journal for Numerical Methods in Fluids</em>, Vol. 95 (2), Pages 215-241, 2023. </li>
 		<h3> 2022 </h3>
 		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>, J. Massoni. <a href="https://hal.archives-ouvertes.fr/hal-03257608v2" target="_blank" >A multiphase irreversible-compaction model for granular-porous materials</a>. <em>Continuum Mechanics and Thermodynamics</em>, Vol. 34.1, Pages 217-241, 2022. </li>
