@@ -78,6 +78,8 @@ permalink: /publications/
 	<h1> Public participations </h1>
 	<ol>
 		<h3> 2023 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “L'accumulation de données, la face cachée de l'intelligence artificielle, vu par Albert Kahn avec sa documentation du monde en 1920”. <em>Journées Européennes du Patrimoine, Musée des Beaux-Arts de Pau, Pau, France</em>, September 17, 2023. </li>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, J. Cresson. “Une introduction aux systèmes chaotiques et bulles de cavitation”. <em>Mathematicum Séminaire de Mathématiques et leurs Applications, Pau, France</em>, January 25, 2023. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Droplet shock-induced cavitation using a multiphase modelling approach”. <em>LMAP Seminar, Pau, France</em>, January 5, 2023. </li>
 		<h3> 2022 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Droplet shock-induced cavitation using a multiphase modelling approach”. <em>Sorbonne University Seminar, Pierre and Marie Curie Campus, Institut Jean le Rond ∂’Alembert, Paris, France</em>, December 8, 2022. </li>
