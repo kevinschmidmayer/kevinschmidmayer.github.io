@@ -78,6 +78,7 @@ permalink: /publications/
 	<h1> Public participations </h1>
 	<ol>
 		<h3> 2023 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modélisation de la mécanique des fluides”. <em>1 scientifique, 1 classe: Chiche!, Lycée Saint John Perse, Pau, France</em>, December 5 & 12, 2023. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Le double pendule, une représentation du chaos”. <em>Village des Sciences, Place Clemenceau, Pau, France</em>, October 14, 2023. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, R. Manceau, J. Jung. “Nos futurs : Jumeaux numériques et modèles de langages”. <em>Nuit Européenne des chercheur.e.s, Château de Pau, Pau, France</em>, September 29, 2023. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “L'accumulation de données, la face cachée de l'intelligence artificielle, vu par Albert Kahn avec sa documentation du monde en 1920”. <em>Journées Européennes du Patrimoine, Musée des Beaux-Arts de Pau, Pau, France</em>, September 17, 2023. </li>
