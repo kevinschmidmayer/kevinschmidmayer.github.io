@@ -26,8 +26,8 @@ permalink: /overview/
 	</aside>
 	<div>
 		<article>
-			<h2> Permanent researcher, Inria </h2>
-			<p> I am a permanent researcher (ISFP) at the <a href="https://www.inria.fr/en/inria-centre-university-bordeaux" target="_blank" >Inria centre at the university of Bordeaux</a> working in the <a href="https://team.inria.fr/cagire/" target="_blank" >team CAGIRE (Pau, France)</a>. I am expert on the modelling and the simulation of multiphase compressible flows for industrial and biomedical applications:
+			<h2> Researcher (eq. Assis. Prof.), Inria </h2>
+			<p> I am a permanent researcher (ISFP, eq. Assis. Prof.) at the <a href="https://www.inria.fr/en/inria-centre-university-bordeaux" target="_blank" >Inria centre at the university of Bordeaux</a> working in the <a href="https://team.inria.fr/cagire/" target="_blank" >team CAGIRE (Pau, France)</a>. I am expert on the modelling and the simulation of multiphase compressible flows for industrial and biomedical applications:
 				<ul>		
 					<li> Diffuse-interface methods, </li>
 					<li> Bubble dynamics, </li>
