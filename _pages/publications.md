@@ -42,6 +42,9 @@ permalink: /publications/
 <article>
 	<h1> Conferences </h1>
 	<ol>
+		<h3> 2024 </h3>
+		<li> A. Sieber, G. Shakya, B. Lukić, G. T. Bokman, M. Belau, M. Schlötter, A. Kühl, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://hal.science/hal-04700345" target="_blank" >Investigating cavitation activity and damage evolution in kidney stone fragmentation through X-ray high-speed imaging and microtomography</a>. <em>1st European Fluid Dynamics Conference, EFDC1</em>, Aachen, Germany, 2024. </li>
+		<li> A. Sieber, G. Shakya, G. T. Bokman, M. Belau, M. Schlötter, A. Kühl, B. Lukić, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://hal.science/hal-04700333" target="_blank" >Discovering the contribution of cavitation damage in kidney stone ablation through X-ray high-speed imaging and microtomography</a>. <em>12th International Cavitation Symposium, CAV2024</em>, Chania, Greece. </li>
 		<h3> 2023 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, L. Biasiori-Poulanges. <a href="https://hal.science/hal-04086409" target="_blank" >On bubble cloud growth in shock-droplet interaction</a>. <em>11th International Conference on Multiphase Flow, ICMF 2023</em>, Kobe, Japan. </li>
 		<h3> 2022 </h3>
