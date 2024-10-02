@@ -81,6 +81,7 @@ permalink: /publications/
 	<h1> Public participations </h1>
 	<ol>
 		<h3> 2024 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Lithotripsie”. <em>Nuit européenne des chercheurs, Château de Pau, Pau, France</em>, September 27, 2024. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Mécanique des fluides numérique”. <em>Rencontres scientifiques, Lycée Louis Barthou, Pau, France</em>, April 11, 2024. </li>
 		<h3> 2023 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modélisation de la mécanique des fluides”. <em>1 scientifique, 1 classe: Chiche!, Lycée Saint John Perse, Pau, France</em>, December 5 & 12, 2023. </li>
