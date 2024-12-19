@@ -14,6 +14,8 @@ permalink: /publications/
 <article>
 	<h1> Journal articles </h1>
 	<ol>
+		<h3> 2024 </h3>
+		<li> G. T. Bokman, L. Biasiori-Poulanges, B. Lukić, <span style="font-weight:bold">K. Schmidmayer</span>, C. Bourquard, E. Baumann, A. Rack, B. J. Olson, O. Supponen. <a href="https://hal.science/hal-04848523" target="_blank" >Impulse-driven release of gas-encapsulated drops</a>. <em>Journal of Fluid Mechanics</em>, Vol. 1001, A51, 2024. </li>
 		<h3> 2023 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, L. Biasiori-Poulanges. <a href="https://hal.science/hal-04100852" target="_blank" >Geometry effects on the droplet shock-induced cavitation</a>. <em>Physics of Fluids</em>, Vol. 35 (6), 063315, 2023. </li>
 		<li> L. Biasiori-Poulanges, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.archives-ouvertes.fr/hal-03894523v1" target="_blank" >A phenomenological analysis of droplet shock-induced cavitation using a multiphase modelling approach</a>. <em>Physics of Fluids</em>, Vol. 35 (1), 013312, 2023. </li>
