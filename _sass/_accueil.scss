@@ -17,34 +17,6 @@
   height: auto;
 }
 
-.buttonRG{
-  width:90px;
-  height:auto;
-  margin:auto;
-}
-
-.buttonRG a{
-  display:block;
-  background:url('#{$baseurl}/assets/images/researchgate.png') no-repeat;
-  background-size: contain;
-  background-position: center;
-  text-decoration:none;
-}
-
-.buttonGS{
-  width:200px;
-  height:auto;
-  margin:auto;
-}
-
-.buttonGS a{
-  display:block;
-  background:url('#{$baseurl}/assets/images/googlescholar.png') no-repeat;
-  background-size: contain;
-  background-position: center;
-  text-decoration:none;
-}
-
 .buttonECOGEN{
   width:250px;
   height:auto;

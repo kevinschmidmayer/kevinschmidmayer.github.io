@@ -9,22 +9,22 @@ permalink: /partners/
 </article>
 
 <div id="logos">
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://www.inria.fr/en/" target="_blank">  <img src="{{ "/assets/images/Inria.png" | prepend: site.baseurl }}" alt="Inria" /> </a>
 	</div>
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="http://www.caltech.edu/" target="_blank">  <img src="{{ "/assets/images/Caltech.png" | prepend: site.baseurl }}" alt="Caltech" /> </a>
 	</div>
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://www.univ-amu.fr/" target="_blank" >  <img src="{{ "/assets/images/amu.png" | prepend: site.baseurl }}" alt="Aix-Marseille Université" /> </a>
 	</div>
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://ethz.ch/en.html" target="_blank" >  <img src="{{ "/assets/images/ETH_Zurich.png" | prepend: site.baseurl }}" alt="ETH Zurich" /> </a>
 	</div>
 </div>
 
 <div id="logos">
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://www.univ-pau.fr/en/home.html" target="_blank" >  <img src="{{ "/assets/images/UPPA.png" | prepend: site.baseurl }}" alt="UPPA" /> </a>
 	</div>
 	<div class="imgLogos3" >
@@ -36,7 +36,7 @@ permalink: /partners/
 	<div class="imgLogos2" >
 		<a href="http://iusti.cnrs.fr/en/" target="_blank">  <img src="{{ "/assets/images/IUSTI.png" | prepend: site.baseurl }}" alt="IUSTI" /> </a>
 	</div>
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://www.onr.navy.mil/" target="_blank" >  <img src="{{ "/assets/images/ONR.png" | prepend: site.baseurl }}" alt="ONR" /> </a>
 	</div>
 </div>
@@ -45,7 +45,7 @@ permalink: /partners/
 	<div class="imgLogos3" >
 		<a href="https://applaudmedical.com/" target="_blank">  <img src="{{ "/assets/images/applaudmedical.png" | prepend: site.baseurl }}" alt="Applaud Medical" /> </a>
 	</div>
-	<div class="imgLogos" >
+	<div class="imgLogos1" >
 		<a href="https://www.storzmedical.com/en/" target="_blank">  <img src="{{ "/assets/images/StorzMedical.svg" | prepend: site.baseurl }}" alt="Storz Medical" /> </a>
 	</div>
 	<div class="imgLogos2" >

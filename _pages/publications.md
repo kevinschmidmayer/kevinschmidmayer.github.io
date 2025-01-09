@@ -4,10 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-<article>
-	<div class="buttonGS">
-		<a href="https://scholar.google.fr/citations?hl=fr&user=Kh66nvkAAAAJ&authorid=703095262117089964&view_op=list_works&gmla=AJsN-F43GmrDZee_ehr2VNaKfWLQBPGmIYjrPhIEAQTvXAAsT7634xPI6Pfo0O28H7uomu3Xorfi-0md9YuObN-pDHtyigG7Xw3seRZ_8sXdKQJfPM1oqSDHJF89noVNBoMUByImik7y" target="_blank"> <img src="{{ "/assets/images/transparent.png" | prepend: site.baseurl }}" alt="get it now!" /> </a>
+<div id="logos">
+	<div class="imgLogos0" >
+		<a href="https://scholar.google.fr/citations?hl=fr&user=Kh66nvkAAAAJ&authorid=703095262117089964&view_op=list_works&gmla=AJsN-F43GmrDZee_ehr2VNaKfWLQBPGmIYjrPhIEAQTvXAAsT7634xPI6Pfo0O28H7uomu3Xorfi-0md9YuObN-pDHtyigG7Xw3seRZ_8sXdKQJfPM1oqSDHJF89noVNBoMUByImik7y" target="_blank">  <img src="{{ "/assets/images/googlescholar.png" | prepend: site.baseurl }}" alt="Scholar" /> </a>
 	</div>
+	<div class="imgLogos4" >
+		<a href="https://www.researchgate.net/profile/Kevin_Schmidmayer" target="_blank" >  <img src="{{ "/assets/images/researchgate.png" | prepend: site.baseurl }}" alt="ResearchGate" /> </a>
+	</div>
+</div>
+
+<article>
 	<p> You will find below the list of my publications (journal articles, conference papers and preprints) as well as other public participations. </p>
 </article>
 
