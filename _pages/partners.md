@@ -21,6 +21,9 @@ permalink: /partners/
 	<div class="imgLogos1" >
 		<a href="https://ethz.ch/en.html" target="_blank" >  <img src="{{ "/assets/images/ETH_Zurich.png" | prepend: site.baseurl }}" alt="ETH Zurich" /> </a>
 	</div>
+	<div class="imgLogos3" >
+		<a href="https://anr.fr/" target="_blank" >  <img src="{{ "/assets/images/ANR-logo-2021-sigle.jpg" | prepend: site.baseurl }}" alt="ANR" /> </a>
+	</div>
 </div>
 
 <div id="logos">
