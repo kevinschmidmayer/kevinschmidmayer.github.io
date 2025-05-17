@@ -50,6 +50,8 @@ permalink: /publications/
 <article>
 	<h1> Conferences </h1>
 	<ol>
+		<h3> 2025 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, G. T. Bokman, A. Sieber, A. Ade-Onojobi, B. Lukić, G. Shakya, A. Kühl, M. Schlötter, M. Belau, O. Supponen. <a href="https://inria.hal.science/hal-05070922" target="_blank" >Exploring the interplay of stone-attached and distant cavitation bubbles during extracorporeal shock wave lithotripsy</a>. <em>12th International Conference on Multiphase Flow, ICMF 2025</em>, Toulouse, France. </li>
 		<h3> 2024 </h3>
 		<li> A. Sieber, G. Shakya, B. Lukić, G. T. Bokman, M. Belau, M. Schlötter, A. Kühl, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://hal.science/hal-04700345" target="_blank" >Investigating cavitation activity and damage evolution in kidney stone fragmentation through X-ray high-speed imaging and microtomography</a>. <em>1st European Fluid Dynamics Conference, EFDC1</em>, Aachen, Germany, 2024. </li>
 		<li> A. Sieber, G. Shakya, G. T. Bokman, M. Belau, M. Schlötter, A. Kühl, B. Lukić, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://hal.science/hal-04700333" target="_blank" >Discovering the contribution of cavitation damage in kidney stone ablation through X-ray high-speed imaging and microtomography</a>. <em>12th International Cavitation Symposium, CAV2024</em>, Chania, Greece. </li>
