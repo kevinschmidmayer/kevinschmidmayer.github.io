@@ -51,6 +51,7 @@ permalink: /publications/
 	<h1> Conferences </h1>
 	<ol>
 		<h3> 2025 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, N. Favrie. <a href="https://inria.hal.science/hal-05124535" target="_blank" >ECOGEN: An open-source software for simulation of cavitation bubble dynamics</a>. <em>Workshop on Bubbles in Complex Media and Confinements</em>, Monte Verità, Switzerland, 2025. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, G. T. Bokman, A. Sieber, A. Ade-Onojobi, B. Lukić, G. Shakya, A. Kühl, M. Schlötter, M. Belau, O. Supponen. <a href="https://inria.hal.science/hal-05070922" target="_blank" >Exploring the interplay of stone-attached and distant cavitation bubbles during extracorporeal shock wave lithotripsy</a>. <em>12th International Conference on Multiphase Flow, ICMF 2025</em>, Toulouse, France. </li>
 		<h3> 2024 </h3>
 		<li> A. Sieber, G. Shakya, B. Lukić, G. T. Bokman, M. Belau, M. Schlötter, A. Kühl, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://hal.science/hal-04700345" target="_blank" >Investigating cavitation activity and damage evolution in kidney stone fragmentation through X-ray high-speed imaging and microtomography</a>. <em>1st European Fluid Dynamics Conference, EFDC1</em>, Aachen, Germany, 2024. </li>
@@ -90,6 +91,8 @@ permalink: /publications/
 <article>
 	<h1> Public participations </h1>
 	<ol>
+		<h3> 2025 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Towards a unified framework: Modelling and simulating multiphase compressible flows with cavitation and viscoplastic solids”. <em>ETH Zürich seminar, Zürich, Switzerland</em>, June 17, 2025. </li>
 		<h3> 2024 </h3>
 		<li> R. Manceau, <span style="font-weight:bold">K. Schmidmayer</span>. “Chaud devant ! Les maths et la physique en action dans les réseaux de chaleur urbains”. <em>Fête de la science, Lycée Jules Supervielle, Oloron-Sainte-Marie, France</em>, October 7, 2024. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Lithotripsie”. <em>Nuit européenne des chercheurs, Château de Pau, Pau, France</em>, September 27, 2024. </li>
