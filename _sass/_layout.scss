@@ -24,13 +24,13 @@ h3 {
 h1 {
   color: $main;
   font-size: 3.5em;
+  text-align: left;
   margin-bottom: 10px;
   a,
   a:visited {
     text-decoration: none;
     color: $main;
   }
-
 }
 h2 {
   font-size: 2em;
@@ -224,6 +224,16 @@ aside{
   margin-right: 50px;
   padding-right: 20px;
 }
+
+italicCenterText{
+  display: block;       // Make it a block-level element
+  text-align: center;   // Centre the text
+  font-style: italic;   // Italic style
+  width: 100%;          // Ensure it spans the full width of its parent
+  margin: 0 auto;       // Centre the block itself (if needed)
+  white-space: pre-line;
+}
+
 
 /******************************************/
 /*Gestion des logos*/
