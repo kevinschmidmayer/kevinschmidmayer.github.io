@@ -8,6 +8,7 @@ permalink: /research/
 	<p> My work is generally devoted to the modelling, the development of numerical methods, the simulation and the analysis of multiphysics, multiphase, compressible flows. In the following are presented some of my research works:
 	<ul>
 		<li> <a href="#anchor-ECOGEN"> ECOGEN: open-source tool dedicated to multiphase compressible multiphysics flows. </a> </li>
+		<li> <a href="#anchor-solid"> Modelling elasto-viscoplastic solids with irreversible compaction. </a> </li>
 		<li> <a href="#anchor-shock-induced-cavitation"> Shock-induced cavitation within a droplet. </a> </li>
 		<li> <a href="#anchor-bubble-dynamics"> Bubble dynamics and cavitation in medicine. </a> </li>
 		<li> <a href="#anchor-aerobreakup"> Water-droplet and water-column aerobreakup. </a> </li>
@@ -40,6 +41,14 @@ permalink: /research/
 	<div class="buttonECOGEN"> 
 		<a href="https://code-mphi.github.io/ECOGEN/" target="_blank"> <img src="{{ "/assets/images/transparent.png" | prepend: site.baseurl }}" alt="get it now!" /> </a> 
 	</div>
+</article>
+
+<article>
+	<h1 id="anchor-solid"> Modelling elasto-viscoplastic solids with irreversible compaction </h1>
+	<p> We proposed a diffuse-interface multiphase Eulerian model for the numerical simulation of porous solids interacting with compressible fluids under dynamic loading, including large deformations, plasticity and irreversible compaction in the presence of shear. The approach extends previously developed solid-fluid diffuse-interface formulations by introducing a thermodynamically consistent description of porous materials within the generalised-standard-material framework. Finite-rate pressure, plastic and compaction relaxation processes are incorporated, allowing for transient non-equilibrium states. The specific energy of each solid phase is formulated in a separable form, combining a hydrodynamic contribution, an elastic energy accounting for shear resistance, and a configurational energy governing reversible and irreversible compaction. This structure naturally recovers the fluid limit as the shear modulus vanishes and enables a unified treatment of fluids, dense solids and porous materials within the same framework. The model is shown to be hyperbolic and compatible with the first and second laws of thermodynamics. A robust Godunov-type finite-volume scheme was developed to solve the resulting system, relying on a reduced HLLC approximate Riemann solver and an operator-splitting strategy to treat relaxation source terms while preserving total energy conservation. The capabilities of the proposed model and numerical method were demonstrated through one- and two-dimensional impact and spallation test cases involving metals with low to high porosities and pores filled with compressible fluids. In particular, classical von Mises plasticity and a Gurson--Tvergaard--Needleman-type model were considered, highlighting the ability of the approach to capture wave attenuation, spall formation and fragmentation in porous materials. The proposed framework provides a general and extensible basis for the simulation of complex multiphase solids and fluids under extreme dynamic conditions, and constitutes a foundation for future extensions and quantitative validation against experimental data.
+	</p>
+	<center><img class= "galleryGif" src="{{ "/assets/images/impactTitaniumCylinderPorousAluminumPlate.gif" | prepend: site.baseurl }}" alt="impactTitaniumCylinderPorousAluminumPlate" style="width: 70%; height: 70%;" /></center>
+	<figcaption>2D perforation of a porous aluminum plate by a titanium cylinder flying at 700 m/s. The upper part shows the mixture density while the lower part shows the volume fraction of aluminum. Total time is 20 µs.</figcaption>
 </article>
 
 <article>
