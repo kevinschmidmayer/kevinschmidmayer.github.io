@@ -52,6 +52,9 @@ permalink: /publications/
 <article>
 	<h1> Conferences </h1>
 	<ol>
+		<h3> 2026 </h3>
+		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05579646" target="_blank" >A pressure non-equilibrium two-phase model for simulating bubble clusters in heterogeneous cavitation</a>. <em>Rencontre du Non-Linéaire 2026</em>, Paris, France.
+		</li>
 		<h3> 2025 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, N. Favrie. <a href="https://inria.hal.science/hal-05124535" target="_blank" >ECOGEN: An open-source software for simulation of cavitation bubble dynamics</a>. <em>Workshop on Bubbles in Complex Media and Confinements</em>, Monte Verità, Switzerland, 2025. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, G. T. Bokman, A. Sieber, A. Ade-Onojobi, B. Lukić, G. Shakya, A. Kühl, M. Schlötter, M. Belau, O. Supponen. <a href="https://inria.hal.science/hal-05070922" target="_blank" >Exploring the interplay of stone-attached and distant cavitation bubbles during extracorporeal shock wave lithotripsy</a>. <em>12th International Conference on Multiphase Flow, ICMF 2025</em>, Toulouse, France. </li>
