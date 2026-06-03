@@ -14,7 +14,7 @@ permalink: /publications/
 </div>
 
 <article>
-	<p> You will find below the list of my publications (journal articles, conference papers and preprints) as well as other public participations. </p>
+	<p> You will find below the list of my publications (journal articles, conference papers and thesis) as well as event organisation and public participations. </p>
 </article>
 
 <article>
@@ -50,11 +50,19 @@ permalink: /publications/
 </article>
 
 <article>
+	<h1> Event organisation </h1>
+	<ol>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>, N. Favrie, F. Petitpas, S. Gavrilyuk, A. Froehly. <a href="https://code-mphi.github.io/ECOGEN/course/" target="_blank" >Three-day spring school on compressible multiphase flow modelling with the open-source code ECOGEN</a>. <em>IUSTI</em>, Marseille, France, May 27-29, 2026. </li>
+	</ol>
+</article>
+
+<article>
 	<h1> Conferences </h1>
 	<ol>
 		<h3> 2026 </h3>
-		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05579646" target="_blank" >A pressure non-equilibrium two-phase model for simulating bubble clusters in heterogeneous cavitation</a>. <em>Rencontre du Non-Linéaire 2026</em>, Paris, France.
-		</li>
+		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05642729" target="_blank" >Subgrid cavitation model based on a pressure disequilibrium formulation</a>. <em>Proceedings of the Canadian Society for Mechanical Engineering International Congress, 33rd Annual Conference of the Computational Fluid Dynamics Society of Canada</em>, Vancouver, British Columbia, Canada, 2026. </li>
+		<li> F. E. Taglialatela, G. De Stefano, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://inria.hal.science/hal-05642671" target="_blank" >Towards LES of multiphase compressible flows</a>. <em>DLES15, The 15th ERCOFTAC workshop on Direct and Large Eddy Simulation</em>, Delft, Netherlands, 2026. </li>
+		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05579646" target="_blank" >A pressure non-equilibrium two-phase model for simulating bubble clusters in heterogeneous cavitation</a>. <em>Rencontre du Non-Linéaire 2026</em>, Paris, France. </li>
 		<h3> 2025 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, F. Petitpas, N. Favrie. <a href="https://inria.hal.science/hal-05124535" target="_blank" >ECOGEN: An open-source software for simulation of cavitation bubble dynamics</a>. <em>Workshop on Bubbles in Complex Media and Confinements</em>, Monte Verità, Switzerland, 2025. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, G. T. Bokman, A. Sieber, A. Ade-Onojobi, B. Lukić, G. Shakya, A. Kühl, M. Schlötter, M. Belau, O. Supponen. <a href="https://inria.hal.science/hal-05070922" target="_blank" >Exploring the interplay of stone-attached and distant cavitation bubbles during extracorporeal shock wave lithotripsy</a>. <em>12th International Conference on Multiphase Flow, ICMF 2025</em>, Toulouse, France. </li>
@@ -96,6 +104,8 @@ permalink: /publications/
 <article>
 	<h1> Public participations </h1>
 	<ol>
+		<h3> 2026 </h3>
+		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Modelling multiphase compressible flows: subgrid cavitation bubbles and viscoplastic solids”. <em>MACS seminar from IMAG, Montpellier, France</em>, May 26, 2026. </li>
 		<h3> 2025 </h3>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>, L. Martin de Fourchambault. “Lithotripsie”. <em>Nuit de la recherche, Château de Pau et Parlement de Navarre, Pau, France</em>, September 26, 2025. </li>
 		<li> <span style="font-weight:bold">K. Schmidmayer</span>. “Towards a unified framework: Modelling and simulating multiphase compressible flows with cavitation and viscoplastic solids”. <em>ETH Zürich seminar, Zürich, Switzerland</em>, June 17, 2025. </li>
