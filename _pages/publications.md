@@ -60,7 +60,7 @@ permalink: /publications/
 	<h1> Conferences </h1>
 	<ol>
 		<h3> 2026 </h3>
-		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05642729" target="_blank" >Subgrid cavitation model based on a pressure disequilibrium formulation</a>. <em>Proceedings of the Canadian Society for Mechanical Engineering International Congress, 33rd Annual Conference of the Computational Fluid Dynamics Society of Canada</em>, Vancouver, British Columbia, Canada, 2026. </li>
+		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://inria.hal.science/hal-05642729" target="_blank" >Subgrid cavitation model based on a pressure disequilibrium formulation</a>. <em>Proceedings of the Canadian Society for Mechanical Engineering International Congress, 33rd Annual Conference of the Computational Fluid Dynamics Society of Canada</em>, Vancouver, British Columbia, Canada, 2026. </li>
 		<li> F. E. Taglialatela, G. De Stefano, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://inria.hal.science/hal-05642671" target="_blank" >Towards LES of multiphase compressible flows</a>. <em>DLES15, The 15th ERCOFTAC workshop on Direct and Large Eddy Simulation</em>, Delft, Netherlands, 2026. </li>
 		<li> M. Saini, F. Denner, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://hal.science/hal-05579646" target="_blank" >A pressure non-equilibrium two-phase model for simulating bubble clusters in heterogeneous cavitation</a>. <em>Rencontre du Non-Linéaire 2026</em>, Paris, France. </li>
 		<h3> 2025 </h3>
