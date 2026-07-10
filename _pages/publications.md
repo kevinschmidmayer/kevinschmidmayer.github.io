@@ -21,6 +21,7 @@ permalink: /publications/
 	<h1> Journal articles </h1>
 	<ol>
 		<h3> 2026 </h3>
+		<li> A. Sieber, C. Brewer, B. Lukić, G. Shakya, G. T. Bokman, M. Belau, A. Kühl, M. Schlötter, <span style="font-weight:bold">K. Schmidmayer</span>, O. Supponen. <a href="https://doi.org/10.21203/rs.3.rs-8799612/v1" target="_blank" >Bridging human kidney stone dynamics and damage under shock-wave lithotripsy: synchrotron X-ray imaging and tomography</a>. <em>Under Review at Nature Portfolio</em>, 2026. </li>
 		<li> N. Favrie, <span style="font-weight:bold">K. Schmidmayer</span>. <a href="https://inria.hal.science/hal-05548115" target="_blank" >A multiphase compressible flow model including elasto-viscoplastic solids with irreversible compaction</a>. <em>Computer Methods in Applied Mechanics and Engineering</em>, Vol. 455, 118880, 2026. </li>
 		<h3> 2024 </h3>
 		<li> G. T. Bokman, L. Biasiori-Poulanges, B. Lukić, <span style="font-weight:bold">K. Schmidmayer</span>, C. Bourquard, E. Baumann, A. Rack, B. J. Olson, O. Supponen. <a href="https://hal.science/hal-04848523" target="_blank" >Impulse-driven release of gas-encapsulated drops</a>. <em>Journal of Fluid Mechanics</em>, Vol. 1001, A51, 2024. </li>
