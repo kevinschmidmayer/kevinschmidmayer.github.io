@@ -19,7 +19,7 @@ permalink: /publications/
 
 <article>
 	<h1> Journal articles </h1>
-	<ol>
+	<ol reversed>
 		<h3> 2026 </h3>
 		<li> Sieber A., Brewer C., Lukić B., Shakya G., Bokman G. T., Belau M., Kühl A., Schlötter M., <span style="font-weight:bold">Schmidmayer K.</span>, Supponen O. (2026). Bridging human kidney stone dynamics and damage under shock-wave lithotripsy: synchrotron X-ray imaging and tomography. <i>Under Review at Nature Portfolio</i>. <a class="badge" href="https://doi.org/10.21203/rs.3.rs-8799612/v1" target="_blank" ><img src="https://img.shields.io/badge/DOI-10.21203/rs.3.rs-8799612/v1-green.svg" alt="DOI link"/></a>
 		</li>
@@ -71,7 +71,7 @@ permalink: /publications/
 
 <article>
 	<h1> Event organisation </h1>
-	<ol>
+	<ol reversed>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Favrie N., Petitpas F., Gavrilyuk S. L., Froehly A. (2026). <a href="https://code-mphi.github.io/ECOGEN/course/" target="_blank" >Three-day spring school on compressible multiphase flow modelling with the open-source code ECOGEN</a>. <i>IUSTI</i>, Marseille, France, May 27-29.
 		</li>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2014-2017, 3 times). Organised the PhD student day of IUSTI, Marseille, France.
@@ -81,7 +81,7 @@ permalink: /publications/
 
 <article>
 	<h1> Conferences </h1>
-	<ol>
+	<ol reversed>
 		<h3> 2026 </h3>
 		<li> Favrie N., <span style="font-weight:bold">Schmidmayer K.</span> (2026). A multiphase compressible flow model including elasto-viscoplastic solids with irreversible compaction. <i>17th World Congress on Computational Mechanics (WCCM), 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS)</i>, Munich, Germany. <a class="badge" href="https://inria.hal.science/hal-05705558" target="_blank" ><img src="https://img.shields.io/badge/HAL-05705558-green.svg" alt="DOI link"/></a>
 		</li>
@@ -118,18 +118,18 @@ permalink: /publications/
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). Modeling and simulation of bubble dynamics in the diffuse-interface framework. <i>Workshop on cavitation, bubble dynamics and mass transfer, Strasbourg, France</i>, May 31-June 1. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03752075v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03752075v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<h3> 2019 </h3>
-		<li> Dorschner B., <span style="font-weight:bold">Schmidmayer K.</span>, Biasiori-Poulanges L., El-Rabii H., Colonius T. (2019). Shock-induced atomization of water droplets. <i>72nd Annual Meeting of the APS Division of Fluid Dynamics</i>, Seattle, Washington. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649110v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649110v1-green.svg" alt="DOI link"/></a>
+		<li> Dorschner B., <span style="font-weight:bold">Schmidmayer K.</span>, Biasiori-Poulanges L., El-Rabii H., Colonius T. (2019). Shock-induced atomization of water droplets. <i>72nd Annual Meeting of the APS Division of Fluid Dynamics</i>, Seattle, Washington, USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649110v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649110v1-green.svg" alt="DOI link"/></a>
 		</li>
-		<li> Spratt J.-S., Rodriguez M., <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). Ensemble-based Data Assimilation Methods for Viscoelastic Material Rheometry during Bubble Collapse. <i>72nd Annual Meeting of the APS Division of Fluid Dynamics</i>, Seattle, Washington. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649099v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649099v1-green.svg" alt="DOI link"/></a>
+		<li> Spratt J.-S., Rodriguez M., <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). Ensemble-based Data Assimilation Methods for Viscoelastic Material Rheometry during Bubble Collapse. <i>72nd Annual Meeting of the APS Division of Fluid Dynamics</i>, Seattle, Washington, USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649099v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649099v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). A comparative study on interface-capturing models and schemes to solve bubble dynamics and cavitation. <i>10th International Conference on Multiphase Flow, ICMF 2019</i>, May 19 – 24, Rio de Janeiro, Brazil. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649087v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649087v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<h3> 2018 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). Simulation of the collapse of a vapor bubble near or attached to a rigid surface. <i>71st Annual Meeting of the APS Division of Fluid Dynamics</i>, Atlanta, Georgia. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649074v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649074v1-green.svg" alt="DOI link"/></a>
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). Simulation of the collapse of a vapor bubble near or attached to a rigid surface. <i>71st Annual Meeting of the APS Division of Fluid Dynamics</i>, Atlanta, Georgia, USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649074v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649074v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Marty A., Petitpas F., Daniel E. (2018). ECOGEN, an open source tool dedicated to multiphase compressible multiphysics flows. <i>53rd 3AF International Conference on Applied Aerodynamics – AERO2018</i>, Salon-de-Provence, France. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-01781830v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-01781830v1-green.svg" alt="DOI link"/></a>
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E. (2018). Simulation of the atomization of a droplet by a high-speed flow. <i>Bulletin of the American Physical Society, APS March Meeting 2018</i>, Los Angeles, California. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649043v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649043v1-green.svg" alt="DOI link"/></a>
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E. (2018). Simulation of the atomization of a droplet by a high-speed flow. <i>Bulletin of the American Physical Society, APS March Meeting 2018</i>, Los Angeles, California, USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649043v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649043v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<h3> 2017 </h3>
 		<li> Kumar P., <span style="font-weight:bold">Schmidmayer K.</span>, Fontaine J., Topin F., Miscevic M., Pigache F., Lavieille P. (2017). Méthodes actives d'intensification des transferts : Facteur de mérite et influence des propriétés thermo-physiques. <i>SFT-2017</i>, Marseille, France. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-01792923v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-01792923v1-green.svg" alt="DOI link"/></a>
@@ -137,7 +137,7 @@ permalink: /publications/
 		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Daniel E., Petitpas F., Favrie N., Gavrilyuk S. L. (2017). Numerical simulation of the aerobreakup of a single droplet by a high-speed flow behind a shock wave. <i>5e Colloque de la Fédération Fabri de Peiresc, Ondes</i>, May 4, IRPHE, France. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03649030v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03649030v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<h3> 2016 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Daniel E., Petitpas F. (2016). A model and numerical method for high speed flows with capillary, viscous and heat conduction effects. <i>The American Institute of Aeronautics and Astronautics, Aviation 2016, 46th AIAA Fluid Dynamics Conference</i>, Washington, D.C. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648992v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648992v1-green.svg" alt="DOI link"/></a>
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Daniel E., Petitpas F. (2016). A model and numerical method for high speed flows with capillary, viscous and heat conduction effects. <i>The American Institute of Aeronautics and Astronautics, Aviation 2016, 46th AIAA Fluid Dynamics Conference</i>, Washington, D.C., USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648992v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648992v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<li> Kumar P., <span style="font-weight:bold">Schmidmayer K.</span>, Topin F., Miscevic M. (2016). An innovative solution to enhance the performance of classical heat exchanger for cooling devices. <i>HTFF-2016 (3rd International Conference on Heat Transfer and Fluid Flow)</i>, Budapest, Hungary. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648983v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648983v1-green.svg" alt="DOI link"/></a>
 		</li>
@@ -146,7 +146,7 @@ permalink: /publications/
 		<li> Kumar P., <span style="font-weight:bold">Schmidmayer K.</span>, Topin F., Miscevic M. (2016). Etude numérique de l’intensification de transfert de chaleur par ‘morphing’ dynamique de la paroi d’un échangeur thermique millimétrique. <i>SFT-2016</i>, Toulouse, France. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648921v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648921v1-green.svg" alt="DOI link"/></a>
 		</li>
 		<h3> 2014 </h3>
-		<li> Radhakrishnan S., <span style="font-weight:bold">Schmidmayer K.</span>, Meiburg E. (2014). Sediment-laden density currents propagating down slopes into stratified ambient. <i>Bulletin of the American Physical Society, 59, 67th Annual Meeting of the APS Division of Fluid Dynamics</i>, 59, No. 20, San Francisco, California. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648773v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648773v1-green.svg" alt="DOI link"/></a>
+		<li> Radhakrishnan S., <span style="font-weight:bold">Schmidmayer K.</span>, Meiburg E. (2014). Sediment-laden density currents propagating down slopes into stratified ambient. <i>Bulletin of the American Physical Society, 59, 67th Annual Meeting of the APS Division of Fluid Dynamics</i>, 59, No. 20, San Francisco, California, USA. <a class="badge" href="https://hal.archives-ouvertes.fr/hal-03648773v1" target="_blank" ><img src="https://img.shields.io/badge/HAL-03648773v1-green.svg" alt="DOI link"/></a>
 		</li>
 	</ol>
 </article>
@@ -158,7 +158,7 @@ permalink: /publications/
 
 <article>
 	<h1> Public participations </h1>
-	<ol>
+	<ol reversed>
 		<h3> 2026 </h3>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2026). “Modelling multiphase compressible flows: subgrid cavitation bubbles and viscoplastic solids”. <i>MACS seminar from IMAG, Montpellier, France</i>, May 26.
 		</li>
@@ -202,18 +202,18 @@ permalink: /publications/
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2021). “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <i>LMAP seminar, Pau, France</i>, May 6.
 		</li>
 		<h3> 2019 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface”. <i>SoCal Fluids XIII, UC Santa Barbara</i>, April 20.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface”. <i>SoCal Fluids XIII</i>, April 20, Santa Barbara, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal vapor bubble attached to a rigid surface”. <i>Fluid Mechanics Research Conference</i>, January 29, Caltech, Pasadena, California.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal vapor bubble attached to a rigid surface”. <i>Fluid Mechanics Research Conference</i>, January 29, Caltech, Pasadena, California, USA.
 		</li>
 		<h3> 2018 </h3>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2018). Invited by Prof. El-Rabii H. at Pprime, Université de Poitiers, October 15 - 18, Poitiers, France.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2018). Invited by Prof. Meiburg E. at UC Santa Barbara, August 13, Santa Barbara, California.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2018). Invited by Prof. Meiburg E. at UC Santa Barbara, August 13, Santa Barbara, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Spherical vapor-bubble collapse and the pathologies of interface-capturing schemes”. <i>SoCal Fluids XII, Los Angeles, California</i>, April 14.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Spherical vapor-bubble collapse and the pathologies of interface-capturing schemes”. <i>SoCal Fluids XII</i>, April 14, Los Angeles, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Simulation of multiphase compressible flows: atomization of droplet and cavitation applications”. <i>Fluid Mechanics Research Conference</i>, February 27, Caltech, Pasadena, California.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Simulation of multiphase compressible flows: atomization of droplet and cavitation applications”. <i>Fluid Mechanics Research Conference</i>, February 27, Caltech, Pasadena, California, USA.
 		</li>
 		<h3> 2017 </h3>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2017). Invited by Prof. Colonius T. at Caltech, Pasadena, California, USA, May 30 - June 4.
