@@ -70,6 +70,16 @@ permalink: /publications/
 </article>
 
 <article>
+	<h1> Software </h1>
+	<ol reversed>
+		<li> <a href="https://code-mphi.github.io/ECOGEN/" target="_blank" >ECOGEN</a>. Latest list of authors: <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Cazé J., Froehly A., Dorschner B., Le Martelot S., Favrie N., Gadiri F. Z., Schropff S., Ade-Onojobi A. (2025).
+		</li>
+		<li> <a href="https://mflowcode.github.io/" target="_blank" >MFC (Multi-component Flow Code).</a>. Authors of the first public version: Bryngelson S. H., <span style="font-weight:bold">Schmidmayer K.</span>, Coralic V., Meng J. C., Maeda K., Colonius T. (2021).
+		</li>
+	</ol>
+</article>
+
+<article>
 	<h1> Event organisation </h1>
 	<ol reversed>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Favrie N., Petitpas F., Gavrilyuk S. L., Froehly A. (2026). <a href="https://code-mphi.github.io/ECOGEN/course/" target="_blank" >Three-day spring school on compressible multiphase flow modelling with the open-source code ECOGEN</a>. <i>IUSTI</i>, Marseille, France, May 27-29.
@@ -97,7 +107,7 @@ permalink: /publications/
 		</li>
 		<li> Saini M., Denner F., <span style="font-weight:bold">Schmidmayer K.</span> (2026). Subgrid cavitation model based on a pressure disequilibrium formulation. <i>Proceedings of the Canadian Society for Mechanical Engineering International Congress, 33rd Annual Conference of the Computational Fluid Dynamics Society of Canada</i>, Vancouver, British Columbia, Canada. <a class="badge" href="https://inria.hal.science/hal-05642729" target="_blank" ><img src="https://img.shields.io/badge/HAL-05642729-green.svg" alt="HAL link"/></a>
 		</li>
-		<li> Taglialatela F. E., De Stefano G., <span style="font-weight:bold">Schmidmayer K.</span> (2026). Towards LES of multiphase compressible flows. <i>DLES15, The 15th ERCOFTAC workshop on Direct and Large Eddy Simulation</i>, Delft, Netherlands. <a class="badge" href="https://inria.hal.science/hal-05642671" target="_blank" ><img src="https://img.shields.io/badge/HAL-05642671-green.svg" alt="HAL link"/></a>
+		<li> Taglialatela F. E., De Stefano G., <span style="font-weight:bold">Schmidmayer K.</span> (2026). Towards Large Eddy Simulations of multiphase compressible flows. <i>DLES15, The 15th ERCOFTAC workshop on Direct and Large Eddy Simulation</i>, Delft, Netherlands. <a class="badge" href="https://inria.hal.science/hal-05642671" target="_blank" ><img src="https://img.shields.io/badge/HAL-05642671-green.svg" alt="HAL link"/></a>
 		</li>
 		<li> Saini M., Denner F., <span style="font-weight:bold">Schmidmayer K.</span> (2026). A pressure non-equilibrium two-phase model for simulating bubble clusters in heterogeneous cavitation. <i>Rencontre du Non-Linéaire 2026</i>, Paris, France. <a class="badge" href="https://hal.science/hal-05579646" target="_blank" ><img src="https://img.shields.io/badge/HAL-05579646-green.svg" alt="HAL link"/></a>
 		</li>
