@@ -174,70 +174,72 @@ permalink: /publications/
 	<h1> Public participations </h1>
 	<ol reversed>
 		<h3> 2026 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2026). “Modelling multiphase compressible flows: subgrid cavitation bubbles and viscoplastic solids”. <i>MACS seminar from IMAG, Montpellier, France</i>, May 26.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Manceau R., Martin de Fourchambault L. (2026). Les lois de conservation, la physique à l’ère de l’informatique, et comment l'intelligence artificielle s'inscrit dans ce contexte. <i>Nuit de la recherche, Château de Pau et Parlement de Navarre, Pau, France</i>, September 25.
+		</li>
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2026). Modelling multiphase compressible flows: subgrid cavitation bubbles and viscoplastic solids. <i>MACS seminar from IMAG, Montpellier, France</i>, May 26.
 		</li>
 		<h3> 2025 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Martin de Fourchambault L. (2025). “Lithotripsie”. <i>Nuit de la recherche, Château de Pau et Parlement de Navarre, Pau, France</i>, September 26.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Martin de Fourchambault L. (2025). Lithotripsie. <i>Nuit de la recherche, Château de Pau et Parlement de Navarre, Pau, France</i>, September 26.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2025). “Towards a unified framework: Modelling and simulating multiphase compressible flows with cavitation and viscoplastic solids”. <i>ETH Zürich seminar, Zürich, Switzerland</i>, June 17.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2025). Towards a unified framework: Modelling and simulating multiphase compressible flows with cavitation and viscoplastic solids. <i>ETH Zürich seminar, Zürich, Switzerland</i>, June 17.
 		</li>
 		<h3> 2024 </h3>
-		<li> Manceau R., <span style="font-weight:bold">Schmidmayer K.</span> (2024). “Chaud devant ! Les maths et la physique en action dans les réseaux de chaleur urbains”. <i>Fête de la science, Lycée Jules Supervielle, Oloron-Sainte-Marie, France</i>, October 7.
+		<li> Manceau R., <span style="font-weight:bold">Schmidmayer K.</span> (2024). Chaud devant ! Les maths et la physique en action dans les réseaux de chaleur urbains. <i>Fête de la science, Lycée Jules Supervielle, Oloron-Sainte-Marie, France</i>, October 7.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2024). “Lithotripsie”. <i>Nuit européenne des chercheurs, Château de Pau et Parlement de Navarre, Pau, France</i>, September 27.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2024). Lithotripsie. <i>Nuit européenne des chercheurs, Château de Pau et Parlement de Navarre, Pau, France</i>, September 27.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2024). “Mécanique des fluides numérique”. <i>Rencontres scientifiques, Lycée Louis Barthou, Pau, France</i>, April 11.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2024). Mécanique des fluides numérique. <i>Rencontres scientifiques, Lycée Louis Barthou, Pau, France</i>, April 11.
 		</li>
 		<h3> 2023 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). “Modélisation de la mécanique des fluides”. <i>1 scientifique, 1 classe: Chiche!, Lycée Saint John Perse, Pau, France</i>, December 5 & 12.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). Modélisation de la mécanique des fluides. <i>1 scientifique, 1 classe: Chiche!, Lycée Saint John Perse, Pau, France</i>, December 5 & 12.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). “Le double pendule, une représentation du chaos”. <i>Village des Sciences, Place Clemenceau, Pau, France</i>, October 14.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). Le double pendule, une représentation du chaos. <i>Village des Sciences, Place Clemenceau, Pau, France</i>, October 14.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Manceau R., Jung J. (2023). “Nos futurs : Jumeaux numériques et modèles de langages”. <i>Nuit Européenne des chercheur.e.s, Château de Pau, Pau, France</i>, September 29.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Manceau R., Jung J. (2023). Nos futurs : Jumeaux numériques et modèles de langages. <i>Nuit Européenne des chercheur.e.s, Château de Pau, Pau, France</i>, September 29.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). “L'accumulation de données, la face cachée de l'intelligence artificielle, vu par Albert Kahn avec sa documentation du monde en 1920”. <i>Journées Européennes du Patrimoine, Musée des Beaux-Arts de Pau, Pau, France</i>, September 17.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). L'accumulation de données, la face cachée de l'intelligence artificielle, vu par Albert Kahn avec sa documentation du monde en 1920. <i>Journées Européennes du Patrimoine, Musée des Beaux-Arts de Pau, Pau, France</i>, September 17.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Cresson J. (2023). “Une introduction aux systèmes chaotiques et bulles de cavitation”. <i>Mathematicum Séminaire de Mathématiques et leurs Applications, Pau, France</i>, January 25.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Cresson J. (2023). Une introduction aux systèmes chaotiques et bulles de cavitation. <i>Mathematicum Séminaire de Mathématiques et leurs Applications, Pau, France</i>, January 25.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). “Droplet shock-induced cavitation using a multiphase modelling approach”. <i>LMAP Seminar, Pau, France</i>, January 5.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2023). Droplet shock-induced cavitation using a multiphase modelling approach. <i>LMAP Seminar, Pau, France</i>, January 5.
 		</li>
 		<h3> 2022 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). “Droplet shock-induced cavitation using a multiphase modelling approach”. <i>Sorbonne University Seminar, Pierre and Marie Curie Campus, Institut Jean le Rond ∂’Alembert, Paris, France</i>, December 8.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). Droplet shock-induced cavitation using a multiphase modelling approach. <i>Sorbonne University Seminar, Pierre and Marie Curie Campus, Institut Jean le Rond ∂’Alembert, Paris, France</i>, December 8.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). “Les bulles de cavitation et leurs interventions inattendues en médecine”. <i>Nuit Européenne des chercheur.e.s, Château de Pau, Pau, France</i>, September 30.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). Les bulles de cavitation et leurs interventions inattendues en médecine. <i>Nuit Européenne des chercheur.e.s, Château de Pau, Pau, France</i>, September 30.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). “Modeling and simulation of bubble dynamics in the diffuse-interface framework”. <i>ETH Zürich seminar, Zürich, Switzerland</i>, August 22.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2022). Modeling and simulation of bubble dynamics in the diffuse-interface framework. <i>ETH Zürich seminar, Zürich, Switzerland</i>, August 22.
 		</li>
 		<h3> 2021 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2021). “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <i>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</i>, December 6-7.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2021). Modelling and simulation of multiphase compressible flows in the diffuse-interface framework. <i>Journées Calcul & Simulation en Nouvelle-Aquitaine, Arcachon, France</i>, December 6-7.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Favrie N. (2021). “Bubble dynamics and cavitation in biomedical applications”. <i>Journée du Laboratoire IUSTI, Marseille, France</i>, October 8.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Favrie N. (2021). Bubble dynamics and cavitation in biomedical applications. <i>Journée du Laboratoire IUSTI, Marseille, France</i>, October 8.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2021). “Modelling and simulation of multiphase compressible flows in the diffuse-interface framework”. <i>LMAP seminar, Pau, France</i>, May 6.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2021). Modelling and simulation of multiphase compressible flows in the diffuse-interface framework. <i>LMAP seminar, Pau, France</i>, May 6.
 		</li>
 		<h3> 2019 </h3>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface”. <i>SoCal Fluids XIII</i>, April 20, Santa Barbara, California, USA.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). Simulation of the collapse of an ellipsoidal bubble attached to a rigid surface. <i>SoCal Fluids XIII</i>, April 20, Santa Barbara, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). “Simulation of the collapse of an ellipsoidal vapor bubble attached to a rigid surface”. <i>Fluid Mechanics Research Conference</i>, January 29, Caltech, Pasadena, California, USA.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2019). Simulation of the collapse of an ellipsoidal vapor bubble attached to a rigid surface. <i>Fluid Mechanics Research Conference</i>, January 29, Caltech, Pasadena, California, USA.
 		</li>
 		<h3> 2018 </h3>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2018). Invited by Prof. El-Rabii H. at Pprime, Université de Poitiers, October 15 - 18, Poitiers, France.
 		</li>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2018). Invited by Prof. Meiburg E. at UC Santa Barbara, August 13, Santa Barbara, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Spherical vapor-bubble collapse and the pathologies of interface-capturing schemes”. <i>SoCal Fluids XII</i>, April 14, Los Angeles, California, USA.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). Spherical vapor-bubble collapse and the pathologies of interface-capturing schemes. <i>SoCal Fluids XII</i>, April 14, Los Angeles, California, USA.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). “Simulation of multiphase compressible flows: atomization of droplet and cavitation applications”. <i>Fluid Mechanics Research Conference</i>, February 27, Caltech, Pasadena, California, USA.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Colonius T. (2018). Simulation of multiphase compressible flows: atomization of droplet and cavitation applications. <i>Fluid Mechanics Research Conference</i>, February 27, Caltech, Pasadena, California, USA.
 		</li>
 		<h3> 2017 </h3>
 		<li> <span style="font-weight:bold">Schmidmayer K.</span> (2017). Invited by Prof. Colonius T. at Caltech, Pasadena, California, USA, May 30 - June 4.
 		</li>
 		<h3> 2016 </h3>
-		<li> Gavrilyuk S. L., <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N. (2016). “Shock-droplet interaction via a new weakly hyperbolic phase-field model”. <i>ITN Workshop, Paris, France</i>, December 6 - 8.
+		<li> Gavrilyuk S. L., <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N. (2016). Shock-droplet interaction via a new weakly hyperbolic phase-field model. <i>ITN Workshop, Paris, France</i>, December 6 - 8.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N., Gavrilyuk S. L. (2016). “A model and numerical method for high speed flows with capillary, viscous and heat conduction effects”. <i>Journée du Laboratoire IUSTI, Marseille, France</i>, May 23 - 24.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N., Gavrilyuk S. L. (2016). A model and numerical method for high speed flows with capillary, viscous and heat conduction effects. <i>Journée du Laboratoire IUSTI, Marseille, France</i>, May 23 - 24.
 		</li>
-		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N., Gavrilyuk S. L. (2016). “Un modèle et une méthode numérique pour les écoulements compressibles avec capillarité”. <i>Journée des Doctorants de l'ED 353, Marseille, France</i>, May 18.
+		<li> <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Favrie N., Gavrilyuk S. L. (2016). Un modèle et une méthode numérique pour les écoulements compressibles avec capillarité. <i>Journée des Doctorants de l'ED 353, Marseille, France</i>, May 18.
 		</li>
 	</ol>
 </article>
