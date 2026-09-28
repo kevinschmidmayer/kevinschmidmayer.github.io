@@ -72,7 +72,7 @@ permalink: /publications/
 <article>
 	<h1> Software </h1>
 	<ol reversed>
-		<li> <a href="https://code-mphi.github.io/ECOGEN/" target="_blank" >ECOGEN</a>. Latest list of authors: <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Cazé J., Froehly A., Dorschner B., Le Martelot S., Favrie N., Gadiri F. Z., Schropff S., Ade-Onojobi A. (2025).
+		<li> <a href="https://code-mphi.github.io/ECOGEN/" target="_blank" >ECOGEN</a>. Latest list of authors: <span style="font-weight:bold">Schmidmayer K.</span>, Petitpas F., Daniel E., Cazé J., Froehly A., Dorschner B., Le Martelot S., Favrie N., Gadiri F. Z., Schropff S., Ade-Onojobi A. (2025). <a class="badge" href="https://hal.science/hal-05023172" target="_blank" ><img src="https://img.shields.io/badge/HAL-05023172-green.svg" alt="HAL link"/></a>
 		</li>
 		<li> <a href="https://mflowcode.github.io/" target="_blank" >MFC (Multi-component Flow Code).</a>. Authors of the first public version: Bryngelson S. H., <span style="font-weight:bold">Schmidmayer K.</span>, Coralic V., Meng J. C., Maeda K., Colonius T. (2021).
 		</li>
